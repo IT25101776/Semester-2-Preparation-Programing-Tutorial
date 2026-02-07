@@ -1,5 +1,3 @@
-Question 5
-
 
 class Calculator {
 	int add(int a, int b) {
@@ -37,4 +35,5 @@ public class Main {
 		System.out.println("Result 1: " + exp1);
 		System.out.println("Result 2: " + exp2);
 	}
+
 }
